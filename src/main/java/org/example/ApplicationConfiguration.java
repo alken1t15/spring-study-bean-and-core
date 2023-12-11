@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.database.ConnectionPool;
 import org.example.database.CrudRepository;
+import org.example.web.WebConfiguration;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.beans.factory.config.BeanDefinition;
